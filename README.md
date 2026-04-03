@@ -1,4 +1,4 @@
-# EL2008 Modul 1 - Senin - Soal 2 (Scoring per test case)
+# EL2008 Modul 1 - Selasa - Soal 2 (Scoring per test case)
 
 Kerjakan file `soal2.c`.
 
